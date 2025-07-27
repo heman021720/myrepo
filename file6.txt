@@ -2,4 +2,4 @@ this is my sixth file
 first additions
 this is integration of jenkins with github
 success
-congratulations to all
+congratulations
